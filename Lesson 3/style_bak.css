@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+.text {
+    color: coral;
+    font-family: serif;
+}
+
+.heading {
+    text-align: center;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.parag {
+    font-size: 16px;
+    line-height: 26px;
+    color: #1F3F68;
+}
+
+#first {
+    color: rgba(172, 255, 18, 0.493) ;
+    border: 1px solid black;
+}
+
+.heading {
+    color: rgb(27, 165, 0);
+}
+
+.black-grey {
+    background-color: rgb(161, 161, 161);
+}
+
+.block {
+    width: 90%;
+    height: 300px;
+    border: 1px solid #000;
+    background-color: #ccc;
+    background-image: url(https://placepic.ru/wp-content/uploads/2018/12/1453029571_1450750653_1-31.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
+
+ul li a {
+    color: gold;
+}
+ul > li {
+    border: 1px solid #000;
+}
+.menu + .text {
+    text-transform: uppercase;
+}

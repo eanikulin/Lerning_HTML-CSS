@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+
+.parag {
+    font-size: 16px;
+    line-height: 26px;
+    color: #1F3F68;
+}
+
+.classh1 {
+    font-size: 64px;
+    color: #1F3F68;
+}
+
+.classh2 {
+    font-weight: 500;
+    font-size: 44px;
+    text-align: center;
+}
+
+.classh3 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.classh4 {
+    font-size: 20px;
+    line-height: 30px;
+    color: #1F3F68;
+}
+
+.classinputtextaria {
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    opacity: 0.4;
+}
+
+.classbutton {
+    background: #5A98D0;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.text {
+    color: coral;
+    font-family: serif;
+}
+
+
+.block {
+    width: 90%;
+    height: 300px;
+    border: 1px solid #000;
+    background-color: #ccc;
+    background-image: url(https://placepic.ru/wp-content/uploads/2018/12/1453029571_1450750653_1-31.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
